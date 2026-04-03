@@ -1,4 +1,5 @@
 --Create Database
+CREATE DATABASE Healthcare_Analysis;
 
 --Create Staging Table (Raw CSV Load)
 
